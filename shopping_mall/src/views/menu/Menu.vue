@@ -1,0 +1,123 @@
+<template>
+  <div id="menu">
+    <scroll>
+      <ul>
+        <li>message1</li>
+        <li>message2</li>
+        <li>message3</li>
+        <li>message4</li>
+        <li>message5</li>
+        <li>message6</li>
+        <li>message7</li>
+        <li>message8</li>
+        <li>message9</li>
+        <li>message10</li>
+        <li>message11</li>
+        <li>message12</li>
+        <li>message13</li>
+        <li>message14</li>
+        <li>message15</li>
+        <li>message16</li>
+        <li>message17</li>
+        <li>message18</li>
+        <li>message19</li>
+        <li>message20</li>
+        <li>message21</li>
+        <li>message22</li>
+        <li>message23</li>
+        <li>message24</li>
+        <li>message25</li>
+        <li>message26</li>
+        <li>message27</li>
+        <li>message28</li>
+        <li>message29</li>
+        <li>message30</li>
+        <li>message31</li>
+        <li>message32</li>
+        <li>message33</li>
+        <li>message34</li>
+        <li>message35</li>
+        <li>message36</li>
+        <li>message37</li>
+        <li>message38</li>
+        <li>message39</li>
+        <li>message40</li>
+        <li>message41</li>
+        <li>message42</li>
+        <li>message43</li>
+        <li>message44</li>
+        <li>message45</li>
+        <li>message46</li>
+        <li>message47</li>
+        <li>message48</li>
+        <li>message49</li>
+        <li>message50</li>
+        <li>message51</li>
+        <li>message52</li>
+        <li>message53</li>
+        <li>message54</li>
+        <li>message55</li>
+        <li>message56</li>
+        <li>message57</li>
+        <li>message58</li>
+        <li>message59</li>
+        <li>message60</li>
+        <li>message61</li>
+        <li>message62</li>
+        <li>message63</li>
+        <li>message64</li>
+        <li>message65</li>
+        <li>message66</li>
+        <li>message67</li>
+        <li>message68</li>
+        <li>message69</li>
+        <li>message70</li>
+        <li>message71</li>
+        <li>message72</li>
+        <li>message73</li>
+        <li>message74</li>
+        <li>message75</li>
+        <li>message76</li>
+        <li>message77</li>
+        <li>message78</li>
+        <li>message79</li>
+        <li>message80</li>
+        <li>message81</li>
+        <li>message82</li>
+        <li>message83</li>
+        <li>message84</li>
+        <li>message85</li>
+        <li>message86</li>
+        <li>message87</li>
+        <li>message88</li>
+        <li>message89</li>
+        <li>message90</li>
+        <li>message91</li>
+        <li>message92</li>
+        <li>message93</li>
+        <li>message94</li>
+        <li>message95</li>
+        <li>message96</li>
+        <li>message97</li>
+        <li>message98</li>
+        <li>message99</li>
+        <li>message100</li>
+      </ul>
+    </scroll>
+  </div>
+</template>
+
+<script>
+import Scroll from '@/components/common/scroll/Scroll'
+
+export default {
+  name: 'Menu',
+  components: {
+    Scroll
+  }
+}
+</script>
+
+<style>
+
+</style>
